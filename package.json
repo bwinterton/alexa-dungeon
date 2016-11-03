@@ -1,0 +1,8 @@
+{
+  "name": "alexa-dungeon",
+  "version": "0.1.0",
+  "description": "A simple dungeon crawler for alexa",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
